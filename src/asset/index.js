@@ -1,0 +1,9 @@
+export { default as logoTSA } from "./tsaitb.jpg";
+export { default as logoAksan } from "./aksantara.jpg";
+export { default as logoTanoto } from "./tanoto.png";
+export { default as logoAkademis } from "./akademis.jpg";
+export { default as logoBPA } from "./bpaftmd.jpg";
+export { default as logoWisokto2020 } from "./wisokto2020.jpg";
+export { default as logoITB } from "./logoITB.jpg";
+export { default as logoCC } from "./logoCC.png";
+export { default as logoSW } from "./logoSW.png";
